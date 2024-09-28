@@ -5,5 +5,4 @@ Implemented RRT Path Planning Algorithm from scratch in Python.
 
 Video Demonstration:
 
-https://github.com/Maker-Rat/ERC-MP-Path-Planning-Ritwik/blob/main/assets/video_demo.mp4
-
+![demo_vid](https://github.com/user-attachments/assets/ea871eb3-fb46-4111-bb41-830ce88214cc)
