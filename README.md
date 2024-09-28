@@ -4,5 +4,5 @@ A repo for the ERC Path Planning mini project by Ritwik Sharma
 Implemented RRT Path Planning Algorithm from scratch in Python. 
 
 Video Demonstration:
-[as soon as it enters it's half](/assets_video_demo.mp4)
+![Demo Video](https://github.com/user-attachments/assets/cf97260e-ed3a-4932-a374-9baa6f722617)
 
